@@ -1,0 +1,158 @@
+@charset "utf-8";
+/* 
+    name:   style.less
+    updata: 2016/07/12
+ */
+
+@black-base: #000;
+@black-base-8: lighten(@black-base, 8%);
+
+@gray-base: #b1b1b1;
+@yellow-base: #ce7b1f;
+
+html { font-size: 62.5%; height: 100%; /* 10 ÷ 16 × 100% = 62.5% */ } 
+body { font-size: 1.2rem; height: 100%;  } /* =12px */
+div,
+span,
+p,
+dl,
+dt,
+a,
+button       { -webkit-tap-highlight-color: rgba(255, 255, 255, 0); -webkit-user-select: none; -moz-user-focus: none; -moz-user-select: none;} 
+button, 
+input, 
+optgroup, 
+select, 
+textarea     { box-sizing: border-box; color: inherit; font: inherit; margin: 0; outline: none; }  
+.container   { width: 100%; overflow: hidden;}
+.flex        { display: -webkit-flex; display: flex;}
+.rel         { position: relative; }
+.sta         { position: static; }
+.abs         { position: absolute; }
+.fix         { position: fixed; }
+.left        { float: left; }
+.right       { float: right; }
+.tl          { text-align: left; } 
+.tc          { text-align: center; }
+.tr          { text-align: right; }
+.tn          { white-space: nowrap; word-wrap: normal; /* for IE */ }
+.vm          { vertical-align: middle; } 
+.vt          { vertical-align: top; } 
+.vb          { vertical-align: bottom; } 
+.vtb         { vertical-align: text-bottom; }
+.wfull       { width: 100%!important; }
+.show        { display: block; }
+.hide        { display: none; }
+.font        { font-family: "微软雅黑", Arial, sans-serif; }
+.db          { display: block; }
+.dib         { display: inline-block; } 
+.bsbb        { box-sizing: border-box; }
+.border0     { border: 0px!important;}
+.center      { display: block; margin-left: auto; margin-right: auto; }
+
+h1,
+h2,
+h3,
+h4, 
+h5,
+h6                   { font-weight: normal; margin: 0; padding: 0; }
+ul,ol                { list-style: none; -webkit-padding-start: 0; padding: 0px; margin: 0px; }
+i,em                   { font-style: normal; }
+p                    { margin: 0px; padding: 0px; }
+body                 { .font; margin: 0px; width: 100%; max-width: 640px; margin: 0 auto; background: @black-base; .rel; }
+input                { font-size: 1.4rem; }
+input[type="submit"],
+input[type="button"],
+input[type="text"]   { -webkit-appearance: none; border-radius: 0; }
+img                  { .db; max-width: 100%; } 
+html,
+a                    { text-decoration: none; color: @gray-base; }
+.noSelect            { -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; -o-user-select: none; user-select: none; }  
+.clearfix:before, 
+.clearfix:after      { content: ""; display: table; } 
+.clearfix:after      { clear: both; }
+.clearfix            { zoom: 1; }
+.transition          { transition: all 0.2s;-webkit-transition: all 0.2s; }
+.truncate            { overflow: hidden; max-width: 100%; text-overflow: ellipsis!important; white-space: nowrap!important; }
+.smoothing           { -webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale; }
+.flex                { display: flex; display: -webkit-flex; }
+
+
+// 主体容器
+#App                                                { .rel; height: 100%; background: @black-base; }
+.mv-container                                       { .abs; top: 0px; left: 0px; right: 0px; bottom: 0px; }
+
+// 头部样式 
+.mv-header                                          { .fix; top: 0px; left: 0px; right: 0px; height: 40px; width: 100%; z-index: 100;
+    .content                                        { .rel; .clearfix; height: 40px; background: @black-base-8;
+        .mv-hd-left, 
+        .mv-hd-right                                { .dib; .rel; height: 40px; line-height: 40px; z-index: 20;
+            a                                       { .dib; font-size: 14px; padding: 0 10px; } }
+        .mv-hd-left                                 { .left;
+            i                                       { margin-right: 5px; font-size: 16px; } } 
+        .mv-hd-right                                { .right;
+            i                                       { font-size: 16px; } }
+        .mv-hd-title                                { .dib; .abs; .tc; top: 0px; left: 0px; right: 0px; bottom: 0px; line-height: 40px; z-index: 10; 
+            span                                    { font-size: 14px; } } } }        
+
+// 加载更多
+.loadMore                                           { .db; .tc; .smoothing; padding: 20px 0;
+    span                                            { .dib; font-size: 14px; margin-left: 5px; }
+    i                                               { font-size: 14px; } }
+
+// 内容样式
+.mv-content                                         { padding-top: 40px; }
+.mv-list                                            { .bsbb; padding: 0 5px; width: 100%; }
+
+// 封面样式
+.mv-list-item                                       { .db; .left; width: 50%; width: 33.3333333%; margin: 10px 0 5px;
+    a                                               { .db; padding: 0 5px; vertical-align: middle;
+        .pic                                        {  } 
+        p                                           { .truncate; .smoothing; height: 18px; line-height: 18px; color: @gray-base; }
+        .title                                      { font-size: 13px; margin-top: 5px;}
+        .date                                       { .hide; font-size: 10px; } } }
+
+    
+// 菜单样式
+.mv-menu                                            { .abs; .transition; top: 40px; left: 0%; right: 0px; bottom: 0px; background: @black-base; width: 100%; z-index: 100;
+    &.transition-left                               { left: 0%; } }
+.mv-menu-content                                    { .rel; height: 100%; width: 100%; }
+
+// 详情banner
+.mv-detail-content                                  { background: lighten(@black-base, 10%);
+.mv-detail-banner                                   { .rel; background-position: 50%; background-repeat: no-repeat; background-size: cover;
+    .mv-background                                  { .abs; top: 0px; left: 0px; right: 0px; bottom: 0px; background: @black-base; opacity: 0.6; z-index: 5; }
+    .content                                        { .rel; .bsbb; .flex; padding: 15px 10px;  z-index: 10; 
+        .mv-pic                                     { flex: 1; -webkit-flex: 1; 
+            img                                     { width: 100%; border: 1px solid lighten(@black-base, 30%); } }
+        .mv-title                                   { width: 65%; } } }
+
+
+// 封面 简介 时长
+.mv-detail-txt                                      {  }
+.detail-album                                       { background: @black-base; padding: 20px 5px 5px;
+    li                                              { .left; .dib; padding: 0 5px; margin-bottom: 15px;
+        a                                           { .db; .rel;
+            img                                     { .bsbb; margin-bottom: 5px; border: 1px solid @gray-base; }
+            p                                       { font-size: 10px; margin-top: 2px;
+                &.count                             { .smoothing; } }
+            span                                    { .abs; .dib; .tc; height: 18px; line-height: 18px; width: 18px; top: 0px; right: 0px; color: #FFF; background: @yellow-base; font-size: 10px;} } } }
+.time-bar                                           { .smoothing; padding: 15px 5px; font-size: 10px;
+    .time                                           { .dib; .left; }
+    .comment                                        { .dib; .right; }
+    .fa                                             { margin: 0 3px;
+        &.fa-chevron-circle-right                   { font-size: 12px; }
+        &.fa-star                                   { font-size: 8px; } } } }
+
+.detail-brief                                       { padding: 0 5px;
+    p                                               { .smoothing; color: #FFF; line-height: 18px; } }
+
+.mv-detail-type                                     { margin-top: 15px; 
+    div                                             { .rel; padding: 0 5px 0 65px; line-height: 20px;
+        label                                       { .db; .abs; .smoothing; .left; top: 0px; left: 5px; font-size: 10px; width: 60px; }
+        a                                           { .smoothing; color: #FFF; font-size: 12px; } } }
+
+.mv-detail-relation                                 { .tc; padding: 25px 0 20px;
+    a                                               { .dib; padding: 4px 20px; border-radius: 20px; font-size: 13px; border: 1px solid @gray-base; color: @gray-base; } } 
+
+

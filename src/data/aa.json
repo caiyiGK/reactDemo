@@ -1,0 +1,1231 @@
+{
+    "@attributes": {
+        "size": "10",
+        "totalSize": "2139",
+        "allowSync": "1",
+        "art": "/:/resources/movie-fanart.jpg",
+        "identifier": "com.plexapp.plugins.library",
+        "librarySectionID": "12",
+        "librarySectionTitle": "01.电影",
+        "librarySectionUUID": "65fa9937-a8cf-4b83-acc6-78395c300f7b",
+        "mediaTagPrefix": "/system/bundle/media/flags/",
+        "mediaTagVersion": "1466734036",
+        "offset": "1",
+        "thumb": "/:/resources/movie.png",
+        "title1": "01.电影",
+        "title2": "All 01.电影",
+        "viewGroup": "movie",
+        "viewMode": "65592"
+    },
+    "Video": [
+        {
+            "@attributes": {
+                "ratingKey": "8594",
+                "key": "/library/metadata/8594",
+                "studio": "Eon Productions",
+                "type": "movie",
+                "title": "007之俄罗斯之恋",
+                "originalTitle": "From Russia With Love",
+                "contentRating": "PG",
+                "summary": "　　雷迪（罗伯特•肖 Robert Shaw 饰）是魔鬼党的头号杀手，一直从未失手。由于007（肖恩•康纳利 Sean Connery 饰）屡次破坏魔鬼党的好事，魔鬼党决心除掉他，于是放出情报说英国军方一直渴望得到的密码机在俄国。同时，俄国女郎塔迪娜（达尼埃拉•比昂什 Daniela Bianchi饰）向英国军方提出要求，只要他们协助她逃往西方，即可奉上密码机。英国军方于是派出007前往俄国接应塔迪娜，拿回密码机。这边，魔鬼党早已准备好天罗地网等待007的到来。007最终命运如何？",
+                "rating": "6.6",
+                "audienceRating": "8.3",
+                "viewOffset": "697013",
+                "lastViewedAt": "1467170144",
+                "year": "1963",
+                "thumb": "/library/metadata/8594/thumb/1464548805",
+                "art": "/library/metadata/8594/art/1464548805",
+                "duration": "6912371",
+                "originallyAvailableAt": "1963-10-11",
+                "addedAt": "1461593158",
+                "updatedAt": "1464548805",
+                "audienceRatingImage": "rottentomatoes://image.rating.upright",
+                "chapterSource": "agent",
+                "primaryExtraKey": "/library/metadata/18875"
+            },
+            "Media": {
+                "@attributes": {
+                    "videoResolution": "720",
+                    "id": "16468",
+                    "duration": "6912371",
+                    "bitrate": "8156",
+                    "width": "1200",
+                    "height": "720",
+                    "aspectRatio": "1.66",
+                    "audioChannels": "6",
+                    "audioCodec": "dca",
+                    "videoCodec": "h264",
+                    "container": "mkv",
+                    "videoFrameRate": "24p",
+                    "audioProfile": "dts",
+                    "videoProfile": "high"
+                },
+                "Part": {
+                    "@attributes": {
+                        "id": "29256",
+                        "key": "/library/parts/29256/1461593158/file.mkv",
+                        "duration": "6912371",
+                        "file": "/volumeUSB2/usbshare/Movie-Dock01-V01/007.From.Russia.With.Love (1963)/007.From.Russia.With.Love (1963) 720p.mkv",
+                        "size": "7046925998",
+                        "audioProfile": "dts",
+                        "container": "mkv",
+                        "deepAnalysisVersion": "1",
+                        "requiredBandwidths": "11496,10675,9893,8972,8565,8387,8158,8158",
+                        "videoProfile": "high"
+                    }
+                }
+            },
+            "Genre": [
+                {
+                    "@attributes": {
+                        "tag": "动作"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "惊悚"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "冒险"
+                    }
+                }
+            ],
+            "Writer": {
+                "@attributes": {
+                    "tag": "Richard Maibaum"
+                }
+            },
+            "Director": {
+                "@attributes": {
+                    "tag": "Terence Young"
+                }
+            },
+            "Country": {
+                "@attributes": {
+                    "tag": "United Kingdom"
+                }
+            },
+            "Role": [
+                {
+                    "@attributes": {
+                        "tag": "Sean Connery"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Daniela Bianchi"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Lotte Lenya"
+                    }
+                }
+            ],
+            "Collection": {
+                "@attributes": {
+                    "tag": "詹姆斯·邦德（系列）"
+                }
+            }
+        },
+        {
+            "@attributes": {
+                "ratingKey": "8605",
+                "key": "/library/metadata/8605",
+                "studio": "United Artists",
+                "type": "movie",
+                "title": "007之八爪女",
+                "originalTitle": "Octopussy",
+                "summary": "　　这次007（罗杰•摩尔 Roger Moore 饰）的任务是追寻真正的法布尔金蛋，在追踪过程结识了美丽的马戏团女郎“八爪女”（莫德•亚当斯 Maud Adams 饰）。007在“八爪女”的房间找到了重要的证据，从而揭露了苏联的一个大阴谋。原来苏联以走私珠宝的名义和“八爪女”合作，其实暗中企图利用“八爪女”的马戏团巡回表演时当场引爆核弹。007深知事态严重，他必须在苏联引爆核弹前阻止他们的阴谋，他费尽千辛万苦在人群拥挤的马戏团里终于找到核弹并将它拆除。随后，“八爪女”不小心被抓走了，为了朋友，007将只身闯虎穴！",
+                "rating": "5.8",
+                "audienceRating": "4.7",
+                "year": "1983",
+                "thumb": "/library/metadata/8605/thumb/1464548821",
+                "art": "/library/metadata/8605/art/1464548821",
+                "duration": "7848599",
+                "originallyAvailableAt": "1983-06-05",
+                "addedAt": "1461541656",
+                "updatedAt": "1464548821",
+                "audienceRatingImage": "rottentomatoes://image.rating.spilled",
+                "chapterSource": "mixed",
+                "primaryExtraKey": "/library/metadata/18939"
+            },
+            "Media": {
+                "@attributes": {
+                    "videoResolution": "720",
+                    "id": "16479",
+                    "duration": "7848599",
+                    "bitrate": "7176",
+                    "width": "1280",
+                    "height": "544",
+                    "aspectRatio": "2.35",
+                    "audioChannels": "6",
+                    "audioCodec": "dca",
+                    "videoCodec": "h264",
+                    "container": "mkv",
+                    "videoFrameRate": "24p",
+                    "audioProfile": "dts",
+                    "videoProfile": "high"
+                },
+                "Part": {
+                    "@attributes": {
+                        "id": "29273",
+                        "key": "/library/parts/29273/1461541656/file.mkv",
+                        "duration": "7848599",
+                        "file": "/volumeUSB2/usbshare/Movie-Dock01-V01/007.Octopussy (1983)/007.Octopussy (1983) 720p.BluRay.X264-AMIABLE.mkv",
+                        "size": "7040521671",
+                        "audioProfile": "dts",
+                        "container": "mkv",
+                        "deepAnalysisVersion": "1",
+                        "requiredBandwidths": "11234,10024,9232,8609,8049,7758,7758,7758",
+                        "videoProfile": "high"
+                    }
+                }
+            },
+            "Genre": [
+                {
+                    "@attributes": {
+                        "tag": "冒险"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "动作"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "惊悚"
+                    }
+                }
+            ],
+            "Writer": [
+                {
+                    "@attributes": {
+                        "tag": "George MacDonald Fraser"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Richard Maibaum"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Michael G. Wilson"
+                    }
+                }
+            ],
+            "Director": {
+                "@attributes": {
+                    "tag": "John Glen"
+                }
+            },
+            "Country": [
+                {
+                    "@attributes": {
+                        "tag": "United Kingdom"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "USA"
+                    }
+                }
+            ],
+            "Role": [
+                {
+                    "@attributes": {
+                        "tag": "Roger Moore"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Maud Adams"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Louis Jourdan"
+                    }
+                }
+            ],
+            "Collection": {
+                "@attributes": {
+                    "tag": "詹姆斯·邦德（系列）"
+                }
+            }
+        },
+        {
+            "@attributes": {
+                "ratingKey": "8598",
+                "key": "/library/metadata/8598",
+                "studio": "Eon Productions",
+                "type": "movie",
+                "title": "007之大破天幕杀机",
+                "originalTitle": "Skyfall",
+                "summary": "------数月前军情六处一块记载了潜伏于全世界恐怖组织内部所有特工名单信息的硬盘丢失，而追索硬盘的行动也以失败告终。在此之后，行动主要负责人M（朱迪·丹奇 Judi Dench 饰）被高层解雇，而军情六处也遭到惨烈的袭击，伤亡惨重。为了查到幕后真凶，M召来佯死的传奇特工詹姆士·邦德（丹尼尔·克雷格 Daniel Craig 饰）。经过一轮严苛的特训和测试，邦德重新服役。在伊芙（娜奥米·哈里斯 Naomie Harris 饰）和新搭档Q（本·卫肖 Ben Whishaw 饰）的协助下，邦德追寻着某前CIA特工的踪迹来到繁华大都会上海。 在这一过程中，特工的名单不断泄露，而邦德最新一次的生死冒险也拉开序幕……",
+                "rating": "6.8",
+                "audienceRating": "8.6",
+                "year": "2012",
+                "thumb": "/library/metadata/8598/thumb/1464548811",
+                "art": "/library/metadata/8598/art/1464548811",
+                "duration": "8589965",
+                "originallyAvailableAt": "2012-10-25",
+                "addedAt": "1359848611",
+                "updatedAt": "1464548811",
+                "audienceRatingImage": "rottentomatoes://image.rating.upright",
+                "chapterSource": "mixed",
+                "primaryExtraKey": "/library/metadata/18878"
+            },
+            "Media": {
+                "@attributes": {
+                    "videoResolution": "1080",
+                    "id": "16472",
+                    "duration": "8589965",
+                    "bitrate": "9831",
+                    "width": "1920",
+                    "height": "800",
+                    "aspectRatio": "2.35",
+                    "audioChannels": "6",
+                    "audioCodec": "dca",
+                    "videoCodec": "h264",
+                    "container": "mkv",
+                    "videoFrameRate": "24p",
+                    "audioProfile": "dts",
+                    "videoProfile": "high"
+                },
+                "Part": {
+                    "@attributes": {
+                        "id": "29298",
+                        "key": "/library/parts/29298/1359848611/file.mkv",
+                        "duration": "8589965",
+                        "file": "/volumeUSB2/usbshare/Movie-Dock01-V01/007.Skyfall (2012)/007.Skyfall (2012) 1080p.BluRay.x264-DAA.mkv",
+                        "size": "10555752370",
+                        "audioProfile": "dts",
+                        "container": "mkv",
+                        "deepAnalysisVersion": "1",
+                        "requiredBandwidths": "28120,22279,16796,13958,13206,13038,13038,13038",
+                        "videoProfile": "high"
+                    }
+                }
+            },
+            "Genre": [
+                {
+                    "@attributes": {
+                        "tag": "动作"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "冒险"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "惊悚"
+                    }
+                }
+            ],
+            "Writer": [
+                {
+                    "@attributes": {
+                        "tag": "John Logan"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Neal Purvis"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Robert Wade"
+                    }
+                }
+            ],
+            "Director": {
+                "@attributes": {
+                    "tag": "Sam Mendes"
+                }
+            },
+            "Country": [
+                {
+                    "@attributes": {
+                        "tag": "United Kingdom"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "USA"
+                    }
+                }
+            ],
+            "Role": [
+                {
+                    "@attributes": {
+                        "tag": "Daniel Craig"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Judi Dench"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Javier Bardem"
+                    }
+                }
+            ],
+            "Collection": {
+                "@attributes": {
+                    "tag": "詹姆斯·邦德（系列）"
+                }
+            }
+        },
+        {
+            "@attributes": {
+                "ratingKey": "13691",
+                "key": "/library/metadata/13691",
+                "studio": "Columbia Pictures",
+                "type": "movie",
+                "title": "007之大破量子危机",
+                "originalTitle": "Quantum of Solace",
+                "summary": "------影片将紧接着上一集《皇家赌场》的结尾，邦德会继续追查Le Chiffre背后的人物——真正的幕后主使，并为死去的伊娃·格林（Eva Green）报仇。将继续扮演007的丹尼尔·克雷格（Daniel Craig）介绍说：“邦德还将延续上一集的特点，他年轻冲动，意志坚定，但难保所有决定都是对的”。编剧保罗·哈吉斯也承认，他笔下的邦德是一个非常人性化的、有缺陷的杀手，虽不得不进入一个道义复杂、玩世不恭的世界，却始终坚持着自己关于对错的信念。另外在这一集中邦德将同时面对来自欧洲和拉美的敌人，法国男演员马提厄·阿马立克（Mathieu Amalric）、瑞士男演员安纳托·陶布曼（Anatole Taubman）以及墨西哥男演员乔奎因·科西奥（Joaquin Cosio）将各自在第22集邦德电影中扮演一个反派，英国女演员Gemma Arterton则将出任新一集的“邦女郎”。",
+                "rating": "6.0",
+                "year": "2008",
+                "thumb": "/library/metadata/13691/thumb/1464548876",
+                "art": "/library/metadata/13691/art/1464548876",
+                "duration": "6374374",
+                "originallyAvailableAt": "2008-10-30",
+                "addedAt": "1462673043",
+                "updatedAt": "1464548876",
+                "chapterSource": ""
+            },
+            "Media": {
+                "@attributes": {
+                    "videoResolution": "1080",
+                    "id": "27861",
+                    "duration": "6374374",
+                    "bitrate": "34526",
+                    "width": "1920",
+                    "height": "1080",
+                    "aspectRatio": "1.78",
+                    "audioChannels": "6",
+                    "audioCodec": "dca",
+                    "videoCodec": "h264",
+                    "container": "mkv",
+                    "videoFrameRate": "24p",
+                    "audioProfile": "dts",
+                    "videoProfile": "high"
+                },
+                "Part": {
+                    "@attributes": {
+                        "id": "29299",
+                        "key": "/library/parts/29299/1462674058/file.mkv",
+                        "duration": "6374374",
+                        "file": "/volumeUSB2/usbshare/Movie-Dock01-V01/007.Quantum.Of.Solace (2008)/007.Quantum.Of.Solace (2008) 1080p BluRay Remux AVC DTSHDMA5.1-CHD.mkv",
+                        "size": "27509861057",
+                        "audioProfile": "dts",
+                        "container": "mkv",
+                        "deepAnalysisVersion": "1",
+                        "requiredBandwidths": "40860,40593,39797,38776,37779,37261,36266,36266",
+                        "videoProfile": "high"
+                    }
+                }
+            },
+            "Genre": [
+                {
+                    "@attributes": {
+                        "tag": "冒险"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "动作"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "惊悚"
+                    }
+                }
+            ],
+            "Writer": [
+                {
+                    "@attributes": {
+                        "tag": "Paul Haggis"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Neal Purvis"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Robert Wade"
+                    }
+                }
+            ],
+            "Director": {
+                "@attributes": {
+                    "tag": "Marc Forster"
+                }
+            },
+            "Country": [
+                {
+                    "@attributes": {
+                        "tag": "United Kingdom"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "USA"
+                    }
+                }
+            ],
+            "Role": [
+                {
+                    "@attributes": {
+                        "tag": "Daniel Craig"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Olga Kurylenko"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Mathieu Amalric"
+                    }
+                }
+            ],
+            "Collection": {
+                "@attributes": {
+                    "tag": "詹姆斯·邦德（系列）"
+                }
+            }
+        },
+        {
+            "@attributes": {
+                "ratingKey": "8608",
+                "key": "/library/metadata/8608",
+                "studio": "United Artists",
+                "type": "movie",
+                "title": "007之太空城",
+                "originalTitle": "Moonraker",
+                "summary": "从美国运送英国太空船半途失去了行踪，这引起了美英两国的高度重视，于是英过军方派出了007邦德（罗杰•摩尔 Roger Moore 饰）前去追查。经过调查，007发现了这件事背后后隐藏的另一个阴谋。世界上某个组织正在在制造一种神经麻痹气体，该气体是由一种极稀有的尼格拉兰花提取出来的；当邦德在这种兰花的产地详细调查后，一个足以震惊世界的大阴谋浮出了水面。原来，该组织已经在太空中建立了一个太空城，为了称霸世界，他们准备从太空城中发射50个自行研制毒气弹袭击地球上的50个大城市。邦德发现他们的阴谋后，准备飞上太空组织他们这个疯狂的计划！",
+                "rating": "5.6",
+                "audienceRating": "4.3",
+                "year": "1979",
+                "thumb": "/library/metadata/8608/thumb/1464548827",
+                "art": "/library/metadata/8608/art/1464548827",
+                "duration": "7588881",
+                "originallyAvailableAt": "1979-06-26",
+                "addedAt": "1461539343",
+                "updatedAt": "1464548827",
+                "audienceRatingImage": "rottentomatoes://image.rating.spilled",
+                "chapterSource": "agent",
+                "primaryExtraKey": "/library/metadata/18942"
+            },
+            "Media": {
+                "@attributes": {
+                    "videoResolution": "720",
+                    "id": "16482",
+                    "duration": "7588881",
+                    "bitrate": "7427",
+                    "width": "1280",
+                    "height": "544",
+                    "aspectRatio": "2.35",
+                    "audioChannels": "6",
+                    "audioCodec": "dca",
+                    "videoCodec": "h264",
+                    "container": "mkv",
+                    "videoFrameRate": "24p",
+                    "audioProfile": "dts",
+                    "videoProfile": "high"
+                },
+                "Part": {
+                    "@attributes": {
+                        "id": "29270",
+                        "key": "/library/parts/29270/1461539343/file.mkv",
+                        "duration": "7588881",
+                        "file": "/volumeUSB2/usbshare/Movie-Dock01-V01/007.Moonraker (1979)/007.Moonraker (1979) 720p.BluRay.x264-SiNNERS.mkv",
+                        "size": "7045177348",
+                        "audioProfile": "dts",
+                        "container": "mkv",
+                        "deepAnalysisVersion": "1",
+                        "requiredBandwidths": "13145,11308,9604,8640,8024,7821,7821,7821",
+                        "videoProfile": "high"
+                    }
+                }
+            },
+            "Genre": [
+                {
+                    "@attributes": {
+                        "tag": "动作"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "冒险"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "惊悚"
+                    }
+                }
+            ],
+            "Writer": {
+                "@attributes": {
+                    "tag": "Christopher Wood"
+                }
+            },
+            "Director": {
+                "@attributes": {
+                    "tag": "Lewis Gilbert"
+                }
+            },
+            "Country": [
+                {
+                    "@attributes": {
+                        "tag": "United Kingdom"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "USA"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "France"
+                    }
+                }
+            ],
+            "Role": [
+                {
+                    "@attributes": {
+                        "tag": "Roger Moore"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Lois Chiles"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Michael Lonsdale"
+                    }
+                }
+            ],
+            "Collection": {
+                "@attributes": {
+                    "tag": "詹姆斯·邦德（系列）"
+                }
+            }
+        },
+        {
+            "@attributes": {
+                "ratingKey": "8604",
+                "key": "/library/metadata/8604",
+                "studio": "Eon Productions",
+                "type": "movie",
+                "title": "007之女王密使",
+                "originalTitle": "On Her Majesty's Secret Service",
+                "summary": "这次，阴谋家贝洛福（特利•萨瓦拉斯Telly Savalas 饰）在瑞士山区建立一个疗养院，表面上这是一个普通的高级疗养院，风景秀丽、服务一流，但实际上却是贝洛福进行的一项旨在控制全球的计划的重要基地。在这个疗养院里，贝洛福开发出一种新型病毒，他企图将病毒注射到来这里疗养的女患者身上，然后通过她们传播到世界各地，达到掌握世界主权的目的。贝洛福的阴谋行动引起了英国情报部门的注意，于是007邦德（乔治•拉扎贝 George Lazenby 饰）奉命出动。邦德乔装打扮成家谱学的专家混进了这座疗养院，他必须及时查处贝洛福的阴谋，并阻止他！",
+                "rating": "6.2",
+                "audienceRating": "6.4",
+                "year": "1969",
+                "thumb": "/library/metadata/8604/thumb/1464548820",
+                "art": "/library/metadata/8604/art/1464548820",
+                "duration": "8538497",
+                "originallyAvailableAt": "1969-12-12",
+                "addedAt": "1461542303",
+                "updatedAt": "1464548820",
+                "audienceRatingImage": "rottentomatoes://image.rating.upright",
+                "chapterSource": "mixed",
+                "primaryExtraKey": "/library/metadata/18938"
+            },
+            "Media": {
+                "@attributes": {
+                    "videoResolution": "720",
+                    "id": "16478",
+                    "duration": "8538497",
+                    "bitrate": "6596",
+                    "width": "1280",
+                    "height": "544",
+                    "aspectRatio": "2.35",
+                    "audioChannels": "6",
+                    "audioCodec": "dca",
+                    "videoCodec": "h264",
+                    "container": "mkv",
+                    "videoFrameRate": "24p",
+                    "audioProfile": "dts",
+                    "videoProfile": "high"
+                },
+                "Part": {
+                    "@attributes": {
+                        "id": "29278",
+                        "key": "/library/parts/29278/1461542303/file.mkv",
+                        "duration": "8538497",
+                        "file": "/volumeUSB2/usbshare/Movie-Dock01-V01/007.On.Her.Majestys.Secret.Service (1969)/007.On.Her.Majestys.Secret.Service (1969) 720p.BluRay.X264-AMIABLE.mkv",
+                        "size": "7040208861",
+                        "audioProfile": "dts",
+                        "container": "mkv",
+                        "videoProfile": "high"
+                    }
+                }
+            },
+            "Genre": [
+                {
+                    "@attributes": {
+                        "tag": "冒险"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "动作"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "惊悚"
+                    }
+                }
+            ],
+            "Writer": {
+                "@attributes": {
+                    "tag": "Richard Maibaum"
+                }
+            },
+            "Director": {
+                "@attributes": {
+                    "tag": "Peter R. Hunt"
+                }
+            },
+            "Country": [
+                {
+                    "@attributes": {
+                        "tag": "United Kingdom"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "USA"
+                    }
+                }
+            ],
+            "Role": [
+                {
+                    "@attributes": {
+                        "tag": "George Lazenby"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Diana Rigg"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Telly Savalas"
+                    }
+                }
+            ],
+            "Collection": {
+                "@attributes": {
+                    "tag": "詹姆斯·邦德（系列）"
+                }
+            }
+        },
+        {
+            "@attributes": {
+                "ratingKey": "8600",
+                "key": "/library/metadata/8600",
+                "studio": "United Artists",
+                "type": "movie",
+                "title": "007之择日而亡",
+                "originalTitle": "Die Another Day",
+                "summary": "------特工英雄007詹姆斯•邦德（皮尔斯•布鲁斯南 Pierce Brosnan 饰）这次在北朝鲜发现了一位世界级的媒体大亨——盖斯特维的阴谋诡计。盖斯特维妄图研制一枚类似于第二颗太阳那样的卫星来挑起全球战争，进而达到他控制地球的企图。007当然不会允许盖斯特维的阴谋得逞，于是在北朝鲜展开了调查。经过调查，007发现盖斯特维的真实身份，那是经过整容后改头换面的原北朝鲜领导人Zao。现在，007必须抓紧时间找到Zao，制止他的阴谋以阻止战争的全面爆发。本片是皮尔斯•布鲁斯南的最后一部007作品。",
+                "rating": "5.7",
+                "audienceRating": "4.1",
+                "year": "2002",
+                "thumb": "/library/metadata/8600/thumb/1464548815",
+                "art": "/library/metadata/8600/art/1464548815",
+                "duration": "7954464",
+                "originallyAvailableAt": "2002-11-17",
+                "addedAt": "1364197472",
+                "updatedAt": "1464548815",
+                "audienceRatingImage": "rottentomatoes://image.rating.spilled",
+                "chapterSource": "mixed",
+                "primaryExtraKey": "/library/metadata/18932"
+            },
+            "Media": {
+                "@attributes": {
+                    "videoResolution": "1080",
+                    "id": "16474",
+                    "duration": "7954464",
+                    "bitrate": "18865",
+                    "width": "1920",
+                    "height": "804",
+                    "aspectRatio": "2.35",
+                    "audioChannels": "6",
+                    "audioCodec": "dca-ma",
+                    "videoCodec": "h264",
+                    "container": "mkv",
+                    "videoFrameRate": "24p",
+                    "audioProfile": "ma",
+                    "videoProfile": "high"
+                },
+                "Part": {
+                    "@attributes": {
+                        "id": "29250",
+                        "key": "/library/parts/29250/1364197472/file.mkv",
+                        "duration": "7954464",
+                        "file": "/volumeUSB2/usbshare/Movie-Dock01-V01/007.Die.Another.Day (2002)/007.Die.Another.Day (2002) BluRay.1080p.3Audio.DTS-HD.MA.5.1.x264-beAst.mkv",
+                        "size": "18757500862",
+                        "audioProfile": "ma",
+                        "container": "mkv",
+                        "deepAnalysisVersion": "1",
+                        "requiredBandwidths": "29053,25408,24545,23400,22533,21797,21070,21070",
+                        "videoProfile": "high"
+                    }
+                }
+            },
+            "Genre": [
+                {
+                    "@attributes": {
+                        "tag": "冒险"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "动作"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "惊悚"
+                    }
+                }
+            ],
+            "Writer": [
+                {
+                    "@attributes": {
+                        "tag": "Robert Wade"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Neal Purvis"
+                    }
+                }
+            ],
+            "Director": {
+                "@attributes": {
+                    "tag": "Lee Tamahori"
+                }
+            },
+            "Country": [
+                {
+                    "@attributes": {
+                        "tag": "United Kingdom"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "USA"
+                    }
+                }
+            ],
+            "Role": [
+                {
+                    "@attributes": {
+                        "tag": "Pierce Brosnan"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Halle Berry"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Rosamund Pike"
+                    }
+                }
+            ],
+            "Collection": {
+                "@attributes": {
+                    "tag": "詹姆斯·邦德（系列）"
+                }
+            }
+        },
+        {
+            "@attributes": {
+                "ratingKey": "8606",
+                "key": "/library/metadata/8606",
+                "studio": "United Artists",
+                "type": "movie",
+                "title": "007之明日帝国",
+                "originalTitle": "Tomorrow Never Dies",
+                "summary": "英国海军的德文郡号军舰在中国领海内被遭到不明鱼雷攻击沉没。为了查明情况，英国海军决定动用武力，派出军舰前往出事海域进行反击。然而却被秘密情报负责人M（朱迪·丹奇 Judi Dench 饰）阻止，并派出代号007的情报员詹姆斯·邦德（皮尔斯·布鲁斯南 Pierce Brosnan 饰）去查清真正的原因，避免两国之间一触即发的战争。在不断深入的调查中，媒体大亨卡佛（乔纳森·普雷斯 Jonathan Pryce 饰）进入了邦德的视线。而且在卡佛举办的晚宴上，邦德遇上了前女友帕丽丝（泰瑞·海切尔 Teri Hatcher 饰），现在的卡佛夫人。在帕丽丝的帮助下，邦德利用GPS让已出动的英国军舰偏离了航道为自己的调查争取到了宝贵的时间。从卡佛处偷来的设备上，邦德发现了沉没军舰的准确位置，不过在沉船处却与中国女特工林惠（杨紫琼 饰）一起被卡佛擒获。原来，卡佛是想通过引发战争来获得全球媒体的垄断地位。这一次，邦德能否逃出魔掌捣毁卡佛的阴谋？",
+                "rating": "5.8",
+                "audienceRating": "5.3",
+                "year": "1997",
+                "thumb": "/library/metadata/8606/thumb/1464548823",
+                "art": "/library/metadata/8606/art/1464548823",
+                "duration": "7160577",
+                "originallyAvailableAt": "1997-12-11",
+                "addedAt": "1364203065",
+                "updatedAt": "1464548823",
+                "audienceRatingImage": "rottentomatoes://image.rating.spilled",
+                "chapterSource": "mixed",
+                "primaryExtraKey": "/library/metadata/18940"
+            },
+            "Media": {
+                "@attributes": {
+                    "videoResolution": "1080",
+                    "id": "16480",
+                    "duration": "7160577",
+                    "bitrate": "17287",
+                    "width": "1920",
+                    "height": "820",
+                    "aspectRatio": "2.35",
+                    "audioChannels": "6",
+                    "audioCodec": "dca-ma",
+                    "videoCodec": "h264",
+                    "container": "mkv",
+                    "videoFrameRate": "24p",
+                    "audioProfile": "ma",
+                    "videoProfile": "high"
+                },
+                "Part": {
+                    "@attributes": {
+                        "id": "42837",
+                        "key": "/library/parts/42837/1364203065/file.mkv",
+                        "duration": "7160577",
+                        "file": "/volumeUSB2/usbshare/Movie-Dock01-V01/007.Tomorrow.Never.Dies (1997)/007.Tomorrow.Never.Dies (1997) BluRay.1080p.3Audio.DTS-HD.mkv",
+                        "size": "15473519728",
+                        "audioProfile": "ma",
+                        "container": "mkv",
+                        "videoProfile": "high"
+                    }
+                }
+            },
+            "Genre": [
+                {
+                    "@attributes": {
+                        "tag": "冒险"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "动作"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "惊悚"
+                    }
+                }
+            ],
+            "Writer": {
+                "@attributes": {
+                    "tag": "Bruce Feirstein"
+                }
+            },
+            "Director": {
+                "@attributes": {
+                    "tag": "Roger Spottiswoode"
+                }
+            },
+            "Country": [
+                {
+                    "@attributes": {
+                        "tag": "United Kingdom"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "USA"
+                    }
+                }
+            ],
+            "Role": [
+                {
+                    "@attributes": {
+                        "tag": "Pierce Brosnan"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Jonathan Pryce"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Michelle Yeoh"
+                    }
+                }
+            ],
+            "Collection": {
+                "@attributes": {
+                    "tag": "詹姆斯·邦德（系列）"
+                }
+            }
+        },
+        {
+            "@attributes": {
+                "ratingKey": "8595",
+                "key": "/library/metadata/8595",
+                "studio": "Eon Productions",
+                "type": "movie",
+                "title": "007之最高机密",
+                "originalTitle": "For Your Eyes Only",
+                "summary": "英国军方一艘绝密的间谍船在希腊发生了爆炸，船上有一个威力无比的发射机（据说它可以使整个北极星飞弹系统全部报废）沉入了海底。这下，不仅英国军方，还有世界各地的间谍、恐怖分子都开始蠢蠢欲动。于是，007邦德（罗杰•摩尔 Roger Moore 饰）出动了，他的任务就是尽快毁掉这台发射机。同一时候，哈维洛克先生在寻找这项装置时不幸被人刺杀身亡，他的女儿美琳娜（卡洛尔•布盖 Carole Bouquet 饰）试图千方百计想帮父亲报仇。邦德说服了美琳娜协助他潜入海底从沉船里取出了发射机。不幸的是，两人浮出水面被敌人抓住了……",
+                "rating": "5.9",
+                "audienceRating": "6.4",
+                "year": "1981",
+                "thumb": "/library/metadata/8595/thumb/1464548808",
+                "art": "/library/metadata/8595/art/1464548808",
+                "duration": "7679304",
+                "originallyAvailableAt": "1981-06-23",
+                "addedAt": "1461593125",
+                "updatedAt": "1464548808",
+                "audienceRatingImage": "rottentomatoes://image.rating.upright",
+                "chapterSource": "agent",
+                "primaryExtraKey": "/library/metadata/18876"
+            },
+            "Media": {
+                "@attributes": {
+                    "videoResolution": "720",
+                    "id": "16469",
+                    "duration": "7679304",
+                    "bitrate": "7341",
+                    "width": "1280",
+                    "height": "544",
+                    "aspectRatio": "2.35",
+                    "audioChannels": "6",
+                    "audioCodec": "dca",
+                    "videoCodec": "h264",
+                    "container": "mkv",
+                    "videoFrameRate": "24p",
+                    "audioProfile": "dts",
+                    "videoProfile": "high"
+                },
+                "Part": {
+                    "@attributes": {
+                        "id": "29255",
+                        "key": "/library/parts/29255/1461593125/file.mkv",
+                        "duration": "7679304",
+                        "file": "/volumeUSB2/usbshare/Movie-Dock01-V01/007.For.Your.Eyes.Only (1981)/007.For.Your.Eyes.Only (1981) 720p.mkv",
+                        "size": "7046312186",
+                        "audioProfile": "dts",
+                        "container": "mkv",
+                        "videoProfile": "high"
+                    }
+                }
+            },
+            "Genre": [
+                {
+                    "@attributes": {
+                        "tag": "冒险"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "动作"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "惊悚"
+                    }
+                }
+            ],
+            "Writer": [
+                {
+                    "@attributes": {
+                        "tag": "Richard Maibaum"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Michael G. Wilson"
+                    }
+                }
+            ],
+            "Director": {
+                "@attributes": {
+                    "tag": "John Glen"
+                }
+            },
+            "Country": [
+                {
+                    "@attributes": {
+                        "tag": "United Kingdom"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "USA"
+                    }
+                }
+            ],
+            "Role": [
+                {
+                    "@attributes": {
+                        "tag": "Roger Moore"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Carole Bouquet"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Chaim Topol"
+                    }
+                }
+            ],
+            "Collection": {
+                "@attributes": {
+                    "tag": "詹姆斯·邦德（系列）"
+                }
+            }
+        },
+        {
+            "@attributes": {
+                "ratingKey": "9134",
+                "key": "/library/metadata/9134",
+                "studio": "United Artists",
+                "type": "movie",
+                "title": "007之杀人执照",
+                "originalTitle": "Licence to Kill",
+                "summary": "　　007邦德（提摩西•道尔顿 Timothy Dalton 饰）和好友赖特在南美洲追踪毒品大王桑切斯，不但被狡猾的桑切斯逃脱了，而且赖特还掉进了桑切斯的陷阱――一个鲨鱼池。虽然最终赖特保住了性命，但他却失去了一双腿。上司要求邦德停止追查，然而报仇心切的邦德执意要追查到底，被没收了他间谍独有的“杀人执照”。没了情报机关的支持，邦德决心一个人独干。 　　当邦德赶往巴拿马的一家夜总会准备将在这里聚会的桑切斯逮捕归案时，被一名香港的特工抓住了并被送到到与英国情报机关接头的地方。狡猾的桑切斯对后派出武装人员将他们接头的地方炸毁了。幸亏邦德大难不死，他发誓一定要桑切斯血债血偿！",
+                "rating": "5.5",
+                "audienceRating": "6.0",
+                "year": "1989",
+                "thumb": "/library/metadata/9134/thumb/1464548868",
+                "art": "/library/metadata/9134/art/1464548868",
+                "duration": "8001098",
+                "originallyAvailableAt": "1989-07-07",
+                "addedAt": "1359884994",
+                "updatedAt": "1464548868",
+                "audienceRatingImage": "rottentomatoes://image.rating.upright",
+                "chapterSource": "mixed",
+                "primaryExtraKey": "/library/metadata/19013"
+            },
+            "Media": {
+                "@attributes": {
+                    "videoResolution": "720",
+                    "id": "17008",
+                    "duration": "8001098",
+                    "bitrate": "9522",
+                    "width": "1280",
+                    "height": "542",
+                    "aspectRatio": "2.35",
+                    "audioChannels": "6",
+                    "audioCodec": "dca",
+                    "videoCodec": "h264",
+                    "container": "mkv",
+                    "videoFrameRate": "24p",
+                    "audioProfile": "dts",
+                    "videoProfile": "high"
+                },
+                "Part": {
+                    "@attributes": {
+                        "id": "29265",
+                        "key": "/library/parts/29265/1359884994/file.mkv",
+                        "duration": "8001098",
+                        "file": "/volumeUSB2/usbshare/Movie-Dock01-V01/007.Licence.to.Kill (1989)/007.Licence.to.Kill (1989) BluRay.720p.3Audio.DTS.x264-beAst.mkv",
+                        "size": "9523188465",
+                        "audioProfile": "dts",
+                        "container": "mkv",
+                        "deepAnalysisVersion": "1",
+                        "requiredBandwidths": "13567,12432,11029,10531,10288,10048,10048,10048",
+                        "videoProfile": "high"
+                    }
+                }
+            },
+            "Genre": [
+                {
+                    "@attributes": {
+                        "tag": "冒险"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "动作"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "惊悚"
+                    }
+                }
+            ],
+            "Writer": [
+                {
+                    "@attributes": {
+                        "tag": "Richard Maibaum"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Michael G. Wilson"
+                    }
+                }
+            ],
+            "Director": {
+                "@attributes": {
+                    "tag": "John Glen"
+                }
+            },
+            "Country": [
+                {
+                    "@attributes": {
+                        "tag": "United Kingdom"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "USA"
+                    }
+                }
+            ],
+            "Role": [
+                {
+                    "@attributes": {
+                        "tag": "Timothy Dalton"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Carey Lowell"
+                    }
+                },
+                {
+                    "@attributes": {
+                        "tag": "Robert Davi"
+                    }
+                }
+            ],
+            "Collection": {
+                "@attributes": {
+                    "tag": "詹姆斯·邦德（系列）"
+                }
+            }
+        }
+    ]
+}
